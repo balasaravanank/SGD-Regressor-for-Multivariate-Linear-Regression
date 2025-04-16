@@ -71,10 +71,10 @@ print("\nSample Predictions:\n", Y_pred[:5])
 ## California Housing Dataset
 ![Screenshot 2025-04-16 213242](https://github.com/user-attachments/assets/666d3138-4785-439b-8ca7-2c30ae25475d)
 
-## Features and Target
+## FEATURES AND TAREGT
 ![Screenshot 2025-04-16 213259](https://github.com/user-attachments/assets/4208ccf8-9cff-4653-a10c-0d8b318f1e5b)
 
-## Predictions and Evaluate
+## PREDICTIONS AND EVALUATE
 ![Screenshot 2025-04-16 213308](https://github.com/user-attachments/assets/c8fd8dbc-a13a-4414-802e-6f91b0b8e437)
 
 ## Developed by : BALA SARAVANAN K
