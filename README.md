@@ -12,7 +12,7 @@ To write a program to predict the price of the house and number of occupants in 
    
 3. Scale features and targets using StandardScaler.
    
-5. Train SGDRegressor with MultiOutputRegressor on training data.
+3. Train SGDRegressor with MultiOutputRegressor on training data.
    
 4 .Predict, inverse scale, and compute MSE.
 
